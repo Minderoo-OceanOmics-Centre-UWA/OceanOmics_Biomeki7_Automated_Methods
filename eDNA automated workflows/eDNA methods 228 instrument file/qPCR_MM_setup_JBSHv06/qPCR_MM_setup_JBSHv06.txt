@@ -1,0 +1,57 @@
+# [qPCR_MM_setup_JBSHv06]
+
+## Summary
+
+This folder contains the Biomek method file and supporting documentation for **[METHOD NAME]**.
+
+This method was created for the environmental DNA (eDNA) automated workflow at the **Minderoo OceanOmics Centre, The University of Western Australia**.
+
+## Method information
+
+| Field | Details |
+|---|---|
+| Method name | [qPCR_MM_setup_JBSHv06] |
+| Workflow | eDNA automated workflow |
+| Institution | Minderoo OceanOmics Centre, The University of Western Australia |
+| Created by | [John Blinco] |
+| Validated by | [Sang Huynh] |
+| Date shared | [2026-05-26] |
+| Validation status | [**Validated** / In testing / Draft] |
+
+## Protocol IO
+Please refer to the following protocol for step by step instructions at **https://www.protocols.io/researchers/oceanomics-uwa**
+
+## Instrument
+
+This method was created for the **Beckman Coulter Life Sciences Biomek i7 Automated Workstation**.
+
+This method may be adaptable to other Biomek instruments with equivalent hardware, deck layout, labware definitions, liquid types, pipetting techniques and project files. However, this method has only been created and validated on the Biomek i7 configuration listed below.
+
+## Biomek method file
+
+| File | Description |
+|---|---|
+| `[qPCR_MM_setup_JBSHv06]` | Biomek method file for this workflow |
+
+## Biomek instrument setup
+
+This method was created and validated on a Biomek i7 with the following configuration:
+
+- Echo Acoustic Liquid Handling Technology — installed but not used in this method
+- Multichannel 96 head
+- Span-8 pod
+
+## Notes
+
+Users should review the method, deck layout, labware definitions and instrument setup before use. The method should be simulated and tested with water before use with biological samples, valuable reagents or production workflows.
+
+## Disclaimer
+
+These files are provided for documentation and research-use purposes only. They are shared **as is**, without warranty or guarantee of performance on other instruments, configurations or workflows.
+
+Use of these files is at the user’s own risk. Users are responsible for confirming compatibility with their own instrument, software version, deck configuration, labware, reagents, safety requirements and institutional procedures before running any method.
+
+## Contact
+
+For questions, issues or suggestions, please open an issue on GitHub or contact the Minderoo OceanOmics Centre at **oceanomics@uwa.edu.au**.
+
