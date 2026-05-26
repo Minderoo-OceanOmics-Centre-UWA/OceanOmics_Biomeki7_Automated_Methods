@@ -2,7 +2,7 @@
 
 ## Summary
 
-This folder contains the Biomek method file and supporting documentation for **[METHOD NAME]**.
+This folder contains the Biomek method file and supporting documentation for **[eDNA_plating_byCSV_JB_SH_v04]**.
 
 This method was created for the environmental DNA (eDNA) automated workflow at the **Minderoo OceanOmics Centre, The University of Western Australia**.
 
