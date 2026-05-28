@@ -5,7 +5,7 @@ This repository contains validated, version-controlled Beckman Coulter Biomek i7
 This folder contains Instrument Files (bif) for two separate Beckman Coulter Biomek i7 liquid handling robots located at the Minderoo OceanOmics Centre. Each Biomek i7 has a slightly different deck configuration, reflected in their individual instrument files.
 
 # INSTRUCTIONS FOR USE
-Each of these methods has instructions published on protocol IO **https://www.protocols.io/researchers/oceanomics-uwa** . Please refer to the appropiate publication for each method. 
+Each Biomek method has an associated laboratory procedure published on protocol IO **https://www.protocols.io/researchers/oceanomics-uwa** . Please refer to the appropriate protocol for each method.
 
 ## Notes
 
